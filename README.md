@@ -1,11 +1,11 @@
-# CCI5
-##Crack the code interview 5 practice
-##Main file to launch all the files \
+# CCI5 Crack the code interview 5 practice
+
+## Main file to launch all the files 
   [MainActivity](app/src/main/java/com/sheshu/cci5/MainActivity.java)&nbsp;
 ## Utils  
    [Utils](app/src/main/java/com/sheshu/cci5/Utils.java)&nbsp;
     
-##Arrays and Strings )&nbsp;\
+## Arrays and Strings )&nbsp;
   [ImageRotate](app/src/main/java/com/sheshu/cci5/arraysstrings/ImageRotate.java)&nbsp; \
   [IsPermutation](app/src/main/java/com/sheshu/cci5/arraysstrings/IsPermutation.java)&nbsp; \
   [RotatedString](app/src/main/java/com/sheshu/cci5/arraysstrings/RotatedString.java)&nbsp; \
