@@ -48,4 +48,4 @@
   [MergeSort](app/src/main/java/com/sheshu/cci5/sorting/MergeSort.java)&nbsp;\
   [QuickSort](app/src/main/java/com/sheshu/cci5/sorting/QuickSort.java)&nbsp;\
   [SelectionSort](app/src/main/java/com/sheshu/cci5/sorting/SelectionSort.java)&nbsp;\
-  [here](app/src/main/java/com/sheshu/cci5/stacks/Animal.java)&nbsp;
+  [Animal](app/src/main/java/com/sheshu/cci5/stacks/Animal.java)&nbsp; 
